@@ -7,7 +7,6 @@ print("dlt version:", dlt.__version__)
 
 
 Q2: 4
-# Describe the dataset
 conn.sql("DESCRIBE").df()
 
 Q3. 10000
